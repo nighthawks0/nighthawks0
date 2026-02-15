@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
   <a href="https://discord.com/users/835750053049925652">
-    <img src="https://img.shields.io/badge/Discord-Reon-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-nighthawks-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
   </a>
 </div>
 
